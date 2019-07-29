@@ -3,6 +3,6 @@ An angular application for start chatting with a number without add him to your 
 
 [Demo](https://quickwhatsapp-9d284.firebaseapp.com/)
 
-##Notes:
+## Notes:
 You have to open the link by mobile device.
 
