@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,body{
+    background-color: #e7f0e4 !important;
+}
+.btn:focus,
+input:focus,
+textarea:focus
+{
+    outline: 0 !important;
+    box-shadow: unset !important;
+    border: 1px solid #1EBEA5 !important;
+}
+.btn-primary{
+    background-color: #1EBEA5 !important;
+    color: #fff !important;
+    border: unset !important;
+    min-width: 95px;
+}
+
+form{
+    border-radius: 5px;
+    box-shadow: 0px 1px 13px 0px #adb5bd !important;
+}
